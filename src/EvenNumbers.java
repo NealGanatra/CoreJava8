@@ -17,5 +17,7 @@ public class EvenNumbers {
 		System.out.println("Enter no :");
 		int n=sc.nextInt();
 		getEvenNumbers(n);
+		
+		System.out.println("Git ka naya technique hai");
 	}
 }
